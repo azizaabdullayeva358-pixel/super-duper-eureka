@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@font-face {
+    font-family: 'inter-bold';
+    src: url(./fonts/Inter_18pt-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'inter-medium';
+    src: url(./fonts/Inter_18pt-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'inter-regular';
+    src: url(./fonts/Inter_18pt-Regular.ttf);
+}
+
+h2{
+    font-family: 'inter-regular'sans-serif;
+    font-weight: 400;
+}
